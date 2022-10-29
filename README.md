@@ -1,4 +1,4 @@
-Veripark assessment Tests
+ETSY - Eccomerce Application
 ==============
 
 ### Install
